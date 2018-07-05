@@ -1,1 +1,1 @@
-var kitten
+var kittens = ['Milo', 'Otis', 'Garfield'];
